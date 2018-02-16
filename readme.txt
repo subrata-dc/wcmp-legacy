@@ -1,6 +1,6 @@
 === WCMp Legacy Settings ===
 Contributors:   Dualcube, greyparrots
-Tags: wcmp settings,wc marketplace, wc marketplace settings, wcmp old settings, wcmp removed settings
+Tags: wcmp legacy settings,wc marketplace, wc marketplace settings, wcmp old settings, wcmp removed settings
 Donate link: https://wc-marketplace.com/donate
 Requires at least: 4.2
 Tested up to: 4.9.2
@@ -13,9 +13,10 @@ A free plugin compatible with WC Marketplace 3.0 with all the removed settings.
 
 == Description ==
 
-Missing the old WCMp settings!! Here comes Legacy plugin. 
+WCMp Legacy Settings is bringing back the missing admin settings of latest WC Marketplace plugin!
 
-Extend you WC Marketplace where you can customize the all the vendor's capability releated to vendor's products and orders and much more!!!
+Starting from version 3, WCMp removed some of the admin settings. Chances are high that you will never notice them because a tiny fraction of our users were using them. But, if you are one of those rare people who were using those settings and want them back, this plugin will do just that. 
+No more sad faces :)
 
 == Installation ==
 NOTE: WCMp Legacy Settings plugin is an extension of WC Marketplace 3.0, so the WC Marketplace 3.0 plugin must be installed and activated in your WordPress site for this plugin to work properly.
@@ -48,3 +49,4 @@ Ans. This plugin is applicable for WCMp version 3.0.1
 
 = 1.0.0 = 
 * Initial Version release.
+
